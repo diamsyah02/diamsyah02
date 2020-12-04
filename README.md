@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Diamsyah M Dida</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyazincahya&show_icons=false">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=diamsyah02&show_icons=false">
 
 💻 I'm a Software Engineer at ``kct.co.id``
 

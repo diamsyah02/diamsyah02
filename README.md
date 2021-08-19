@@ -6,7 +6,7 @@
 
 💻 I'm a Software Engineer
 
-- ⚙️ Stack: ``React Native``, ``Ionic``, ``PHP``
+- ⚙️ Stack: ``React Native``, ``JavaScript``, ``PHP``
 - 🏢 I'm currently working on some **React Native Projects**, **PHP Projects**
 - 🌱 I'm currently learning about VueJS, SvelteJS
 - 📫 Stay in Jakarta, Indonesia

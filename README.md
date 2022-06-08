@@ -7,7 +7,7 @@
 💻 I'm a Software Engineer
 
 - ⚙️ Stack: ``JavaScript``, ``PHP``
-- 🏢 I'm currently working on some **React Native Projects**, **PHP Projects**
+- 🏢 I'm currently working on some **Vue JS Projects**, **PHP Projects**
 - 🌱 I'm currently learning about VueJS, SvelteJS
 - 📫 Stay in Jakarta, Indonesia
 
